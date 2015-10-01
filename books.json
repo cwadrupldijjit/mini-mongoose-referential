@@ -1,0 +1,49 @@
+// This is dummy data you can use for your app.
+
+// books
+[{
+  "title": "code words and stuff",
+  "author": "560d6ef8cc96603b04a481fd",
+  "genre": "how-to",
+  "pages": 2,
+  "checked_out": false
+},{
+  "title": "Homer Simpson: A Tale Of American Awesomeness",
+  "author": "560d718ccc96603b04a481fe",
+  "genre": "biography",
+  "pages": 1452,
+  "checked_out": false
+},{
+  "title": "Rick and Morty",
+  "author": "560d718ccc96603b04a481fe",
+  "genre": "unknown",
+  "pages": 54385,
+  "checked_out": false
+},{
+  "title": "the space bar and you",
+  "author": "560d6ef8cc96603b04a481fd",
+  "genre": "how-to",
+  "pages": 1944,
+  "checked_out": false
+},{
+  "title": "How To Frolick",
+  "author": "560d718ccc96603b04a481fe",
+  "genre": "how-to",
+  "pages": 420,
+  "checked_out": true
+}]
+
+// authors
+[{
+  "_id": "560d6ef8cc96603b04a481fd",
+  "name": "Master Splinter",
+  "country": "Sewer Nation",
+  "degree": "Black Belt",
+  "__v": 0
+},{
+  "_id": "560d718ccc96603b04a481fe",
+  "name": "Hulk Hogan",
+  "country": "Merica",
+  "degree": "Elementary",
+  "__v": 0
+}]
